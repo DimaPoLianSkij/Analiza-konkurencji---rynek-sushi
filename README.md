@@ -1,2 +1,5 @@
-# Analiza-konkurencji---rynek-sushi
-Analiza została wykonana w celu szkolenia, ale wskaźniki marketingowe są prawdziwe
+## 📊 Analiza konkurencji – Wasabi Sushi
+
+Projekt zawiera analizę konkurencji na rynku sushi wraz z rekomendacjami marketingowymi.
+
+👉 Pełna prezentacja w pliku poniżej
